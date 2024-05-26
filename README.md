@@ -1,2 +1,2 @@
-Мой бэкенд: https://pindle-backend.nomoredomainswork.ru
-ссылка на репозиторий: https://github.com/cocka67/pindie-backend
+Мой бэкенд: https://pindie.back.nomoredomainswork.ru
+ссылка на репозиторий backend`a : https://github.com/cocka67/pindie-backend
