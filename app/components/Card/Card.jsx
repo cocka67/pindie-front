@@ -14,7 +14,9 @@ export const Card = (props) => {
           </p>
           <p className={Styles["card__votes"]}>
             Голосов на сайте:
-            <span className={Styles["card__accent"]}>{props.users.length}</span>
+            {props.users && props.users.length > 0 && (
+                <span className={Styles['card__accent']}>{props.users.length}</span>
+            )}
           </p>
         </div>
       </div>
